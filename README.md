@@ -28,7 +28,7 @@ If you have any issues, please let me know in the issues section or directly to 
 ## Installation 💾
 
 ```bash
-git clone https://github.com/Bhanu1776/Freelansters.git
+https://github.com/balap1801/Freelancing-application-MERN
 ```
 
 Create config.env file in `backend` folder and Fill your `.env` variables:
