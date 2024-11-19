@@ -59,13 +59,9 @@ node server.js
 
 ## Contributing
 
-This is an open source project, and contributions of any kind are welcome and appreciated. Open issues, bugs, and feature requests are all listed on the [issues](https://github.com/Bhanu1776/Freelansters/issues) tab and labeled accordingly. Feel free to open bug tickets and make feature requests.
+This is an open source project, and contributions of any kind are welcome and appreciated. Open issues, bugs, and feature requests are all listed on the [issues](https://github.com/balap1801/Freelancing-application-MERN) tab and labeled accordingly. Feel free to open bug tickets and make feature requests.
 
-## Contributors 💣
 
-<a href="https://github.com/Bhanu1776/Freelansters/graphs/contributors">
-  <img  src="https://contrib.rocks/image?repo=Bhanu1776/Freelansters" />
-</a>
 
 ## Support Me 🫂
 
@@ -73,7 +69,7 @@ This is an open source project, and contributions of any kind are welcome and ap
 
 <hr>
 
-© 2022 Bhanu Sunka and contributors\
-This project is licensed under the [**MIT license**](https://github.com/Bhanu1776/Freelancers-Hub/blob/master/LICENSE).
+© 2024 Bala and contributors\
+This project is licensed under the [**MIT license**]( [)](https://github.com/balap1801/Freelancing-application-MERN).
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
