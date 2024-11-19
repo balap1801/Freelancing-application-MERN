@@ -23,7 +23,7 @@
 
 ## Code Example/Issues 🔍
 
-If you have any issues, please let me know in the issues section or directly to sunkabhanu281202@gmail.com
+If you have any issues, please let me know in the issues section or directly to bobbymilky129@gmail.com
 
 ## Installation 💾
 
@@ -57,9 +57,7 @@ Simultaneously Run Node.js Server :
 node server.js
 ```
 
-## Contributing
 
-This is an open source project, and contributions of any kind are welcome and appreciated. Open issues, bugs, and feature requests are all listed on the [issues](https://github.com/balap1801/Freelancing-application-MERN) tab and labeled accordingly. Feel free to open bug tickets and make feature requests.
 
 
 
